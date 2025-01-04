@@ -1,10 +1,9 @@
 Project  readme file format
 
-
 Customer Churn Prediction Using ANN
 
 ## Overview
-This project leverages an Artificial Neural Network (ANN) to predict customer churn, enabling businesses to identify customers likely to discontinue services. The ANN model processes key features such as customer demographics, behavior, and service usage to deliver accurate predictions. By proactively addressing potential churn, this solution empowers businesses to enhance customer retention strategies and improve overall service quality.
+- This project leverages an Artificial Neural Network (ANN) to predict customer churn, enabling businesses to identify customers likely to discontinue services. The ANN model processes key features such as customer demographics, behavior, and service usage to deliver accurate predictions. By proactively addressing potential churn, this solution empowers businesses to enhance customer retention strategies and improve overall service quality.
 ---
 
 ## Steps to Set Up and Run the Project
